@@ -10,21 +10,6 @@
             Quando eu somar 2 + 2
             Então o resultado deve ser 4
 
-            Cenário: Soma de 2 números
-            Dado que eu acesse a calculadora
-            Quando eu somar 2 + 1
-            Então o resultado deve ser 3
-
-            Cenário: Soma de 2 números
-            Dado que eu acesse a calculadora
-            Quando eu somar 5 + 5
-            Então o resultado deve ser 10
-
-            Cenário: Soma de 2 números
-            Dado que eu acesse a calculadora
-            Quando eu somar 3 + 3
-            Então o resultado deve ser 6
-
             Esquema do Cenário: Soma de 2 números
             Quando somar <num1> com <num2>
             Então deve exibir o <resultado>
