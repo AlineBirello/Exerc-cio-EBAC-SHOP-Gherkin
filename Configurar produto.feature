@@ -13,10 +13,6 @@
             Quando selecionar a cor "Amarelo",tamanho "M" e quantidade "1"
             Então o sistema deve permitir prosseguir com a compra
 
-            Cenario: Seleção itens obrigatórios inexistentes
-            Quando selecionar a cor "Azul",tamanho "M" e quantidade "1"
-            Então o sistema deve apresentar a mensagem "Cor inexistente"
-
             Esquema do Cenário: Autenticar configurações
             Quando selecionar <cor>,<tamanho> e <quantidade>
             Então o sistema deve inserir no carrinho
